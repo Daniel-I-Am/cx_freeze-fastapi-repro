@@ -1,5 +1,5 @@
 # cx_freeze-fastapi-repro
-For issue: #pending
+For issue: [#2433](https://github.com/marcelotduarte/cx_Freeze/issues/2433)
 
 Reproducing in Docker for consistency:
 ```
