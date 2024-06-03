@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "test-freeze"
+version = "0.0.0-dev"
+packages = [
+  { include = "main.py" },
+]
+authors = []
+description = ""
+
+[tool.poetry.dependencies]
+python = "^3.11"
+hypercorn = "^0.17.0"
+cx-freeze = "~7.1.0"
+fastapi = "^0.111.0"
